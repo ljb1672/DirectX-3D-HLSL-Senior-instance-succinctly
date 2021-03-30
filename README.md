@@ -2,3 +2,5 @@
 # DirectX-3D-HLSL-Senior-instance-succinctly
 code for DirectX 3D HLSL Senior instance succinctly
 head file and lib file included
+
+https://www.amazon.com/DirectX-instance-succinctly-DVD-ROM-Chinese/dp/7302318433/ref=sr_1_4?dchild=1&keywords=directx+3d+hlsl&qid=1617092939&sr=8-4
